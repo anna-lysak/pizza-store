@@ -4,6 +4,9 @@ This is test project created while learning VueJS.
 Simple pizza store, where user can place the order. Admin can view orders, 
 create menu items. Firebase is used as storage. Client-side only.
 
+http://pizza-planet.s3-website.eu-central-1.amazonaws.com/
+
+http://pizza-planet.s3-website.eu-central-1.amazonaws.com/admin
 
 
 ## Project setup
