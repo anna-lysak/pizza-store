@@ -1,4 +1,10 @@
 # pizza-store
+This is test project created while learning VueJS.
+
+Simple pizza store, where user can place the order. Admin can view orders, 
+create menu items. Firebase is used as storage. Client-side only.
+Admin login/password: (admin@admin.com/admin123)
+
 
 ## Project setup
 ```
